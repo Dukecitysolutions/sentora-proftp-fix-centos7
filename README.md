@@ -8,7 +8,7 @@ Sentora Proftpd fix CentOS
 
 ##Downloading Sentora Proftpd fix CentOS 
 
-I will have instructions soon. Please stay tuned to help develope Sentora.
+bash <(curl -L -Ss http://zppy-repo.dukecitysolutions.com/repo/proftp-fix-centos/sentora-proftp-centos.sh)
 
 ##Getting support
 
